@@ -1,0 +1,36 @@
+body{
+    /* backgroud-color:red */
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+  div{
+    background-color:rgb(237, 13, 91);
+    text-align:center;
+  }
+ #h1{
+    color:chocolate;
+    text-align:center;
+    font-size:60px;
+ }
+ h1{
+  color:gray;
+ }
+ H2{
+  color:pink;
+  text-align:center;
+ }
+  div{
+    color:blueviolet;
+    text-align:center;
+  }
+  #goat{
+      display:flex;
+    margin:0 auto;
+  }
+  .p{
+    color:skyblue;
+    text-align:center;
+    font-size:60px;
+  }
+  p{
+    color:purple;
+  }
