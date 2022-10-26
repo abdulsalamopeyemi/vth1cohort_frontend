@@ -1,0 +1,78 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+    
+  /* THIS IS INTERNAL STYLING*/
+  /*
+  .live{
+    color:blue;
+    text-align:center;
+  }
+  .main{
+    background-color:black;
+  }
+  .mine{
+   display: block;
+   margin:0 auto ;
+  
+  }
+.firstweb{
+          color:greenyellow;
+          text-align:center;
+       }
+.secondweb{
+          color:black;
+          text-align: center;
+  }
+  .third{
+          color:aquamarine;
+          text-align:center;
+  }
+  .status{
+    display:block;
+    margin:0 auto;
+  }
+  .giver{
+    color: blue;
+    text-align:center;
+  }
+  .form{
+    color:blue;
+    text-align:center;
+  }
+  .money{
+    color:blue;
+    text-align:center
+  }
+  .outline{
+    color:blue;
+    text-align:center;
+  }
+  .fire{
+    display:block;
+    margin:0 auto;
+  }
+  .reason{
+    display:block;
+    margin:0 auto;
+  }
+  .shoot{
+    display:block;
+    margin:0 auto;
+  }
+  .space{
+    background-color:blueviolet;
+    font-size:75px;
+  }
+  .selection{
+   background-color: bisque;
+    font-size:50px;
+  }
+  .debit{
+    background-color:yellow;
+    font-size:55px;
+  }
+  h2{
+    color:rgba(158, 12, 99, 0.626);
+    /* front-size:50px;*/ 
+  }
