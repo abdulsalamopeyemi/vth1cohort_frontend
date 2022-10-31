@@ -6,21 +6,7 @@ div{
   background-color:brown;
   text-align:center;
 }
-#h2{
-  color:aquamarine;
-  text-align:center;
-  font-size:60px;
-}
 div{
   color:blueviolet;
   text-align:center;
-}
-#goat{
-    display:flex;
-  margin:0 auto;
-}
-p{
-  color:skyblue;
-  text-align:center;
-  font-size:60px;
 }
