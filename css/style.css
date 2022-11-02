@@ -1,12 +1,16 @@
 body{
-  /* backgroud-color:red */
-  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color:palevioletred;
 }
-div{
-  background-color:brown;
+div > h1,h2,h3{
   text-align:center;
+  font-size:60px;
 }
-div{
-  color:blueviolet;
-  text-align:center;
+div > img {display:block;
+       margin:0 auto;
+}
+div > p{
+          color:purple;
+          text-align:center;
+          font-size:60px;
 }
