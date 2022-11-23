@@ -1,0 +1,7 @@
+.lock{
+       background-color:rgba(244, 192, 4, 0.916);
+       display:flex;
+       align-items:center;
+       height:30px;
+       border:none;
+}
