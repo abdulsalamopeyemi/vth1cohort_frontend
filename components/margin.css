@@ -1,0 +1,42 @@
+ html{
+   font-size:32px ;
+ }
+ body{
+height:50vh;
+ }  
+
+ /* #box1{
+   font-size: 1em;
+   display:block;
+   margin-block-start: 0.25em;
+   margin-block-end: 1em;
+   margin-inline-start: 0.5em;
+   margin-inline-end: 0.5em;
+}
+   p{
+      font-size: 1em;
+      margin-block-start: 0.25em;
+      margin-block-end: 1em;
+      margin-inline-start: 0.5em;
+      margin-inline-end: 0.5em;
+   } */
+   /*.JOY{
+      display:flex;
+      flex-flow:row; 
+       justify-content:space-around;
+       align-items: center;
+   }
+   /* .bash{
+      display:flex;
+      flex-direction:column;
+      justify-content:space-between;
+      align-items: center;
+   } */
+   .bond{
+      display:flex;
+      flex-direction: row;
+      justify-content: space-between;
+      align-items:flex-start;
+      border:2px solid yellow;
+      width:50%;
+   }
