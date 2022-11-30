@@ -1,74 +1,51 @@
-body{
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  }
-    
-  /* THIS IS INTERNAL STYLING*/
-  /*
-  .live{
-    color:blue;
-    text-align:center;
-  }
-  .main{
-    background-color:black;
-  }
-  .mine{
-   display: block;
-   margin:0 auto ;
-  
-  }
-.firstweb{
-          color:greenyellow;
-          text-align:center;
-       }
-.secondweb{
-          color:black;
-          text-align: center;
-  }
-  .third{
-          color:aquamarine;
-          text-align:center;
-  }
-  .status{
-    display:block;
-    margin:0 auto;
-  }
-  .giver{
-    color: blue;
-    text-align:center;
-  }
-  .form{
-    color:blue;
-    text-align:center;
-  }
-  .money{
-    color:blue;
-    text-align:center
-  }
-  .outline{
-    color:blue;
-    text-align:center;
-  }
-  .fire{
-    display:block;
-    margin:0 auto;
-  }
-  .reason{
-    display:block;
-    margin:0 auto;
-  }
-  .shoot{
-    display:block;
-    margin:0 auto;
-  }
-  .space{
-    background-color:blueviolet;
-    font-size:75px;
-  }
-  .selection{
-   background-color: bisque;
-    font-size:50px;
-  }
-  .debit{
-    background-color:yellow;
-    font-size:55px;
-  }
+.body{
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color:gray
+}
+.love{
+  background-color:gray;
+  text-align:center;
+}
+.head{
+  background-color:gray;                         
+  display:flex;
+  flex-direction:row;
+  justify-content: space-between;
+  align-items: center;
+  text-align: center;
+  padding-inline: 2rem;
+
+}
+.logo{
+  color:orange;
+  font-style: italic;
+  margin-inline:5px;
+  padding:21px;
+}
+.both{
+  display:flex;
+  align-items:center;
+ /* color:white;
+  justify-content:space-between; */
+  margin-inline: 1rem;
+  list-style:none;
+}
+.nice{
+background-color:hwb(53 1% 0% / 0.844);
+ color:black;
+ padding:21px 59px;
+ border-radius:1px;
+}
+.lite{
+color:black;
+padding:21px 66px;
+border:1px solid yellow;
+background-color: darkgoldenrod;
+}
+a{
+  display:flex;
+  list-style:none;
+  margin-inline:2px;
+  color:white;
+  justify-content:space-between;
+}
