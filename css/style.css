@@ -46,11 +46,10 @@ background-color:rgb(235, 235, 2);
 color:black;
 padding:21px 66px;
 border:1px solid yellow;
-background-color: darkgoldenrod;
+background-color:whitesmoke
 }
 a{
-  list-style:none;
-  margin-inline:2rem;
-  color:white;
-  justify-content:space-around;
+  margin: 43px;
+  text-decoration:none;
+  color: antiquewhite;
 }
