@@ -1,6 +1,6 @@
 body{
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  background-color:palevioletred;
+  background-color:gray
 }
 div > h1,h2,h3{
   text-align:center;
@@ -14,6 +14,43 @@ div > p{
           text-align:center;
           font-size:60px;
 }
-.make{
-  background-color:rgba(238, 181, 10, 0.8);
+.head{
+  background-color:black;                         
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  text-align: center;
+  padding-inline: 2rem;
+}
+.logo{
+  color:orange;
+  font-style: italic;
+  margin-inline:5px;
+  padding:21px;
+}
+.peace{
+  display:flex;
+  /* color:white;
+  justify-content:space-between; */
+  align-items: center;
+  margin-inline: 1rem;
+  list-style:none;
+}
+.smart{
+background-color:rgb(235, 235, 2);
+ color:black;
+ padding:21px 59px;
+ border-radius:1px;
+}
+.unity{
+color:black;
+padding:21px 66px;
+border:1px solid yellow;
+background-color: darkgoldenrod;
+}
+a{
+  list-style:none;
+  margin-inline:2rem;
+  color:white;
+  justify-content:space-around;
 }
